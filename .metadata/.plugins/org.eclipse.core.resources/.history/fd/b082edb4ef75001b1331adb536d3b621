@@ -1,0 +1,5 @@
+package com.bruno.lira.cursomc.services;
+
+public class DBService {
+
+}
